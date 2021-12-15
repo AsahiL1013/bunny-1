@@ -7,5 +7,6 @@ public class Demo1 {
         System.out.println("hello Git ~");
         System.out.println("hello Git #");
         System.out.println("hello Git !");
+        System.out.println("hello Git $");
     }
 }
